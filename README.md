@@ -15,7 +15,7 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/BHARGAVP07/Frt-Pjct
 
 
 
-{ The project is about donatons like money, clothing, food and also scholarship program.}
+{ The project is about donations like money, clothing, food and also scholarship program.}
 
 # Features
 -  Good UI
