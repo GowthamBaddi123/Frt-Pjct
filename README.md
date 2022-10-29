@@ -2,20 +2,19 @@
 
 
 
-AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
+AZURE LINK :
+YOUTUBE LINK :
 
-YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
-
-PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+PROJECT DEMO URL: 
 
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
-
+PROJECT LINK(GITHUB REPOSITORY : 
 
 
 
 
-EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
+
+{ paragraph }
 
 # Features
 -  Good UI
@@ -76,14 +75,15 @@ EduWell is my project that is done as also called an online course, is any cours
 
  
 # Screenshots
-![keerthi jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
-![keerthi jr frp mob cap](https://user-images.githubusercontent.com/85716910/197338218-a21d0704-a24e-463f-bc5f-5d23c52040b9.PNG)
+![mob](https://user-images.githubusercontent.com/113291883/198835443-2b3e2acd-7fd2-4e23-9b48-a9f0d7d3410f.PNG)
+![bhargav](https://user-images.githubusercontent.com/113291883/198835446-937f4b4e-c0c6-45e0-ac5a-c2a07241afc7.PNG)
 
 
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
 -  Keerthi Korumilli
+
 
 
 # Privacy Policies 
