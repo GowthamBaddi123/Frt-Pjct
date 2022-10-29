@@ -2,13 +2,14 @@
 
 
 
-AZURE LINK :
-YOUTUBE LINK :
+AZURE LINK : https://wonderful-rock-0c0bb2300.2.azurestaticapps.net
 
-PROJECT DEMO URL: 
+YOUTUBE LINK : 
+
+PROJECT DEMO URL: https://bhargavp07.github.io/Frt-Pjct/
 
 
-PROJECT LINK(GITHUB REPOSITORY : 
+PROJECT LINK(GITHUB REPOSITORY : https://github.com/BHARGAVP07/Frt-Pjct 
 
 
 
