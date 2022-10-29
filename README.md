@@ -4,7 +4,7 @@
 
 AZURE LINK : https://wonderful-rock-0c0bb2300.2.azurestaticapps.net
 
-YOUTUBE LINK : 
+YOUTUBE LINK : https://youtube.com/shorts/d7QHO44Kh9I?feature=share
 
 PROJECT DEMO URL: https://bhargavp07.github.io/Frt-Pjct/
 
@@ -15,7 +15,7 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/BHARGAVP07/Frt-Pjct
 
 
 
-{ paragraph }
+{ The project is about donatons like money, clothing, food and also scholarship program.}
 
 # Features
 -  Good UI
