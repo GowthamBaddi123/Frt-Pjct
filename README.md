@@ -82,7 +82,7 @@ PROJECT LINK(GITHUB REPOSITORY :
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
--  Keerthi Korumilli
+- 
 
 
 
