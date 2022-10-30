@@ -14,8 +14,7 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/BHARGAVP07/Frt-Pjct
 
 
 
-
-{ The project is about donations like money, clothing, food and also scholarship program.}
+ Kind Heart is our project that is done as the solution  about donations like money, clothing, food and also scholarship program.
 
 # Features
 -  Good UI
@@ -86,7 +85,13 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/BHARGAVP07/Frt-Pjct
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
-- 
+- P Bhargav
+
+- Y Sunil
+
+- M Koteswararao
+
+- A Sri Harshini
 
 
 
